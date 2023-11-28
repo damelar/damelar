@@ -2,16 +2,39 @@
 
 <img style="margin: 10px;" align="right" height="310" src="./assets/gandalf.jpeg" alt="gandalf">
 
-- Prazer, me chamo Daniel, tenho 20 anos e sou programador.
+- 🤟 Prazer, me chamo Daniel, tenho 20 anos e sou programador.
 
-- Programo desde os 2020 e comecei a "fica de pé sozinho" ao entrar no curso de ADS. Em 2021, consegui minha primeira oportunidade de estágio, da qual tiro o máximo de conhecimentos possíveis.
+- 🌱 Programo desde os 2020 e comecei a "fica de pé sozinho" ao entrar no curso de ADS. Em 2021, consegui minha primeira oportunidade de estágio.
 
-- Tenho prefêrencia pelo **backend**. Gosto muito do fato de poder trabalhar com dados/informações sempre visando a performance da melhor maneira. Também estudo um pouco de frontend que, apesar de não ser muito minha praia, sei que necessito-o para me tornar um verdadeiro hacker.
+- 👨‍💻 Tenho prefêrencia pelo **backend**. Gosto muito do fato de poder trabalhar com dados/informações sempre visando a performance da melhor maneira. Também estudo um pouco de frontend que, apesar de não ser muito minha praia, sei que necessito-o para me tornar um verdadeiro hacker.
   
-- No momento, direciono uma porcentagem dos meus estudos exclusivamente em **.NET** por ser uma tecnologia "forte" do mercado e também por estar em um projeto com ela. Estudo-a para poder de me tornar um bom profissional da mesma.
+- 📚 Dividindo meus estudos em:  
+<div style="display: flex; justify-content: center;">
+
+  | tempo   | conteúdo                          
+  | ---     |  ----                             
+  | 60%     | mão na massa(**PRÁTICA**)        
+  | 30%     | algoritmos e estrutura de dados(**TEORIA**)
+  | 10%     | negócio e gerenciamento 
+
+</div>
+
+- 🔭 No momento, por estar em um projeto e também por ser uma tecnologias "forte" do mercado, direciono uma porcentagem dos meus estudos exclusimanete a **.NET**. Desejo me tornar um bom profissional com ela.
+
+<!-- 
+<div style="text-align: center;">
+
+&bull; <a href="https://linkedin.com/in/danielmeloaguilar">linkedin</a>
+
+</div> -->
+
+
 
 ### Principais Tecnologias
+
 [![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,go,linux,postgres,vue)](https://skillicons.dev) (csharp, dotnet, go, linux, postgres, vue)
+
+
 
 <!--
 <details>
@@ -53,18 +76,3 @@
 <details>
   <summary>Publicações</summary>
 </details>
-
-<!--
-**damelar/damelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
