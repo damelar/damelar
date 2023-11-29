@@ -18,7 +18,7 @@
   | ---     |  ----                             
   | 60%     | mão na massa(**PRÁTICA**)        
   | 30%     | algoritmos e estrutura de dados(**TEORIA**)
-  | 10%     | negócio e gerenciamento 
+  | 10%     | negócio e gestão
 
 </div>
 
