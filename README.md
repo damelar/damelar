@@ -8,6 +8,9 @@
 
 - 👨‍💻 Tenho prefêrencia pelo **backend**. Gosto muito do fato de poder trabalhar com dados/informações sempre visando a performance da melhor maneira. Também estudo um pouco de frontend que, apesar de não ser muito minha praia, sei que necessito-o para me tornar um verdadeiro hacker.
   
+
+- 🔭 No momento, por estar em um projeto e também por ser uma tecnologias "forte" do mercado, direciono uma porcentagem dos meus estudos exclusimanete a **.NET**. Desejo me tornar um bom profissional com ela.
+
 - 📚 Dividindo meus estudos em:  
 <div style="display: flex; justify-content: center;">
 
@@ -18,8 +21,6 @@
   | 10%     | negócio e gerenciamento 
 
 </div>
-
-- 🔭 No momento, por estar em um projeto e também por ser uma tecnologias "forte" do mercado, direciono uma porcentagem dos meus estudos exclusimanete a **.NET**. Desejo me tornar um bom profissional com ela.
 
 <!-- 
 <div style="text-align: center;">
