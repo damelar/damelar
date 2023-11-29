@@ -11,8 +11,8 @@
 - 🔭 No momento, por estar em um projeto e também por ser uma tecnologia "forte" no mercado, direciono uma porcentagem dos meus estudos exclusimanete a **.NET**. Desejo me tornar um bom profissional dessa tecnologia.
 
 - 📚 Dividindo meus estudos em:  
-<div align="center">
-
+<div aling="left">
+    
   | tempo   | conteúdo                          
   | ---     |  ----                             
   | 60%     | mão na massa(**PRÁTICA**)        
