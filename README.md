@@ -4,7 +4,7 @@
 
 - 🤟 Prazer, me chamo Daniel, tenho 20 anos e sou programador.
 
-- 🌱 Programo desde os 2020 e comecei a "fica de pé sozinho" ao entrar no curso de ADS. Em 2022, consegui minha primeira oportunidade de estágio.
+- 🌱 Programo desde os 2020 e comecei a "ficar de pé sozinho" ao entrar no curso de ADS. Em 2022, consegui minha primeira oportunidade de estágio.
 
 - 👨‍💻 Tenho prefêrencia pelo **backend**. Gosto muito do fato de poder trabalhar com dados/informações sempre visando a performance da melhor maneira. Também estudo um pouco de **frontend** que, apesar de não ser muito minha praia, sei que o necessito para me tornar um verdadeiro hacker.
   
