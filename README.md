@@ -2,7 +2,7 @@
 
 <img style="margin: 10px;" align="right" height="310" src="./assets/gandalf.jpeg" alt="gandalf">
 
-- 🤟 Prazer, me chamo Daniel, tenho 20 anos e sou programador.
+- 🤟 Prazer, me chamo Daniel e sou programador.
 
 - 🌱 Programo desde os 2020 e comecei a "ficar de pé sozinho" ao entrar no curso de ADS. Em 2022, consegui minha primeira oportunidade de estágio.
 
