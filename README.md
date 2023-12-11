@@ -6,35 +6,31 @@
 
 - 🌱 Programo desde os 2020 e comecei a "ficar de pé sozinho" ao entrar no curso de ADS. Em 2022, consegui minha primeira oportunidade de estágio.
 
-- 👨‍💻 Tenho prefêrencia pelo **backend**. Gosto muito do fato de poder trabalhar com dados/informações sempre visando a performance da melhor maneira. Também estudo um pouco de **frontend** que, apesar de não ser muito minha praia, sei que o necessito para me tornar um verdadeiro hacker.
+- 👨‍💻 Tenho prefêrencia pelo **backend**. Gosto muito de poder trabalhar sempre visando a performance. Também estudo um pouco de **frontend** que, apesar de não ser muito minha praia, sei que o necessito para me tornar um verdadeiro hacker.
   
-- 🔭 No momento, por estar em um projeto e também por ser uma tecnologia "forte" no mercado, direciono uma porcentagem dos meus estudos exclusimanete a **.NET**. Desejo me tornar um bom profissional dessa tecnologia.
+- 🔭 No momento, direciono uma porcentagem dos meus estudos exclusimanete à **.NET**.
 
-- 📚 Dividindo meus estudos em:  
-<div aling="left">
-    
+- 📚 Dividindo meus estudos em:
+
+<div align="left">
+  
   | tempo   | conteúdo                          
   | ---     |  ----                             
-  | 60%     | mão na massa(**PRÁTICA**)        
-  | 30%     | algoritmos e estrutura de dados(**TEORIA**)
+  | 60%     | mão na massa (**PRÁTICA**)        
+  | 30%     |  fundamentos e algoritmos(**TEORIA**)
   | 10%     | negócio e gestão
-
+  
 </div>
 
-<!-- 
-<div style="text-align: center;">
-
+<!--
+<div align="center">
 &bull; <a href="https://linkedin.com/in/danielmeloaguilar">linkedin</a>
+</div>
+-->
 
-</div> -->
-
-
-
-### Principais Tecnologias
-
-[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,go,linux,postgres,vue)](https://skillicons.dev) (csharp, dotnet, go, linux, postgres, vue)
-
-
+## Principais Tecnologias
+  
+[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,go,linux,postgres,vue)](https://skillicons.dev)
 
 <!--
 <details>
@@ -63,7 +59,6 @@
 -->
 
 <br>
-
 
 <details>
   <summary>Projetos</summary>
