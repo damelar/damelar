@@ -73,3 +73,5 @@
 <br>
 
 ## Publicações
+
+- [Como documentar API's com API Blueprint](https://www.tabnews.com.br/melar/como-documentar-apis-com-api-blueprint)
