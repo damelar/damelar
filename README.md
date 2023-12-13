@@ -60,12 +60,16 @@
 
 <br>
 
+## Projetos
 <details>
-  <summary>Projetos</summary>
+  <summary> MineBubble </summary>
+
+  <img align="center" src="https://avatars.githubusercontent.com/u/151691658?s=200&v=4" />
+
+  - [MineBubble](https://github.com/MineBubble) é uma organização criada para manter projetos e desafios técnicos. Uso-os como objeto de estudos pois, consigo aprender e aplicar conhecimentos em um ambiente mais próximo do real. 
+
 </details>
 
 <br>
 
-<details>
-  <summary>Publicações</summary>
-</details>
+## Publicações
