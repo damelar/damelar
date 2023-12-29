@@ -16,9 +16,9 @@
   
   | tempo   | conteúdo                          
   | ---     |  ----                             
-  | 60%     | mão na massa (**PRÁTICA**)        
-  | 30%     |  fundamentos e algoritmos(**TEORIA**)
-  | 10%     | negócio e gestão
+  | 60%     | mão na massa        
+  | 30%     | fundamentos e algoritmos
+  | 10%     | gestão e mercado
   
 </div>
 
