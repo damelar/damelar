@@ -8,6 +8,8 @@
 
 - 👨‍💻 Tenho prefêrencia pelo **backend**. Acho legal poder trabalhar sempre visando a performance. Também estudo um pouco de **frontend** que, apesar de não ser muito minha praia, sei que o necessito para me tornar um verdadeiro hacker.
 
+- 🔭 No momento, direciono uma porcentagem dos meus estudos exclusimanete à **.NET**.
+  
 - 📚 Dividindo os estudos em:
 
 <div align="left">
